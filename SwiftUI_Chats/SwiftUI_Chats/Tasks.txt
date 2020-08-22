@@ -1,0 +1,10 @@
+
+
+
+
+
+
+1. Реализовать UI на Swift Ui
+2. Реализовать UI на Composition Layout And Diffible Data Source
+
+// Можно прсосто сделать customNav bar - и скрыть навбар у navView - будет все норм и не городить там изврат всяческий!
